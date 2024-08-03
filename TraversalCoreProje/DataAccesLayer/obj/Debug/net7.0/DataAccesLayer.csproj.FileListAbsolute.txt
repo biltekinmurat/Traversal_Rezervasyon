@@ -1,0 +1,17 @@
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\DataAccesLayer.deps.json
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\DataAccesLayer.runtimeconfig.json
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\DataAccesLayer.dll
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\DataAccesLayer.pdb
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.AssemblyInfo.cs
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAcce.AB8F2C65.Up2Date
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.dll
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\refint\DataAccesLayer.dll
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.pdb
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\DataAccesLayer.genruntimeconfig.cache
+C:\Users\bilte\Desktop\TraversalCoreProje\DataAccesLayer\obj\Debug\net7.0\ref\DataAccesLayer.dll

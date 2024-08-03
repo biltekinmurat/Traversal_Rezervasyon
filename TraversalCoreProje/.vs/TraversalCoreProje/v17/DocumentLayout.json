@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\bilte\\desktop\\traversalcoreproje\\traversalcoreproje\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\bilte\\desktop\\traversalcoreproje\\traversalcoreproje\\areas\\member\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\areas\\member\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\bilte\\desktop\\traversalcoreproje\\traversalcoreproje\\areas\\member\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\areas\\member\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\bilte\\desktop\\traversalcoreproje\\traversalcoreproje\\areas\\member\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\areas\\member\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\bilte\\desktop\\traversalcoreproje\\traversalcoreproje\\areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11BDA43-1356-493E-9BE3-AA3EEF882531}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\areas\\member\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Areas\\Member\\Views\\Comment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProje\\Areas\\Member\\Views\\Comment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T12:50:48.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Areas\\Member\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Areas\\Member\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:48:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Areas\\Member\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Areas\\Member\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:48:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Areas\\Member\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Areas\\Member\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Areas\\Member\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:47:53.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\bilte\\Desktop\\TraversalCoreProje\\TraversalCoreProje\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "TraversalCoreProje\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T12:18:28.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
